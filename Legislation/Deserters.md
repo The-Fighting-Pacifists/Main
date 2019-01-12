@@ -10,6 +10,11 @@ document.
 The following penalties will be immediately applied to any member who deserts TFP:
 
 1. An embargo from the TFP alliance with the following reason:  "Deserted TFP during a defensive war".
+   The purpose of this embargo is twofold:
+    
+    1. To provide some manner of immediate penalty without harming the greater war-effort
+    
+    1. To make it easy to keep track of who has defected (It will be plainly visible in the list of embargoes.)
 
 ### B. Post-War Penalties
 
