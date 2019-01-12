@@ -22,7 +22,7 @@ The following penalties will be applied after the war to any member who deserted
 1. Any deserter who has found a new alliance will only be hunted down if their alliance will permit us to do so.  If not, such
   deserters will either:
   
-    1. Have a bounty placed upon them; or if this is not possible,
+    1. Have a bounty placed upon them; or if this is not desirable,
     
     1. Be permanently embargoed by TFP.
   
