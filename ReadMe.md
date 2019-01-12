@@ -5,6 +5,16 @@
 This repository contains all official TFP files that do not require
 security clearance.
 
+## Editing
+
+Most of text documents in this repository are written in Markdown.
+
+Any new text documents should also be written in Markdown, unless
+there is a specific reason to do otherwise.
+
+A guide to writing Markdown text can be found here:
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
 ## Copyright
 
 Everything in this repository, except where otherwise stated, is
