@@ -1,0 +1,52 @@
+04/14/2018 - City building guide
+
+This is an updated version of the city building guide, in a dedicated announcement to make it easier to find:
+https://docs.google.com/spreadsheets/d/1yJkEGS62ILxFwUzBndcMcrtss6rLp4_YswHsCWUtsvA/edit?usp=sharing
+
+This guide is aimed to try and maximise your income and point out income inefficiency flaws that new players tend to make, however if you decide to have more military that's up to you. This is only a general guide, each situation is different and market prices can change a lot, so it's up to you on what resources you decide to produce. In terms of military, soldiers tend to be more beneficial at lower scores with low infrastructure and cities, while at 1000+ infrastructure (7+ cities), planes are essential, then ships.
+
+-------------------------------------
+In summary, these are some of the main guidelines to follow:
+-------------------------------------
+1. Don't build commerce before 100k population per city
+- With lower infrastructure and population levels, raw resources (coal/oil/iron/lead/bauxite) or manufacturing (steel/aluminium/munitions/gasoline) will provide more income for you when they're sold on the market. The profitability of each improvement is now listed next to it so you can compare - be aware though that the value for farms does not take into account radiation losses.
+
+2. Don't build farms before 3500 land per city (depending on market price and radiation)
+- With lower land levels, you won't be able to produce food as efficiently as large nations, so it's better to buy food off the market and specialise in production of resources which you have a comparative advantage: raw resources like coal, iron, oil, lead and bauxite
+
+3. Don't build civil service (hospital/recycling) before you have 100% commerce per city, and the first one you build should be the police station (crime is 10x worse than disease)
+- The main income benefit these buildings provide is through an increased income from commerce due to higher population levels. If you don't have 100% commerce then you'd be better off using the improvement slot to build a commerce building or other production building rather than increasing the effectiveness of your existing commerce buildings.
+
+4. Specialise resource and manufacturing in each city.
+- A recent update means that the more you build of a particular resource/manufacturing improvement in a city, the more efficient it is, potentially increasing yield by 50%. Therefore, instead of building for example 3 coal mines and 3 iron mines in each city, it's much better to build half of the cities with 6 coal mines (or 1/4 with 12), and the other half with 6 iron mines. You can see how much of the specialisation bonus you are getting by looking at each improvement.
+
+5. Build infrastructure so that each city has a multiple of 100
+- this makes it cheaper to build.
+
+6. Build nuclear power plants when you get to 1000 infrastructure per city. Always remember the opportunity cost of slots.
+
+7. Don't power a city if you don't need powered buildings in it. A city with just mines early game is completely viable, powering every city isn't required until you need military buildings, or plan to build manufacturing / commerce.
+
+8. Don't build supermarkets unless you have the International Trade Centre project
+- Supermarkets are the worst commerce building and are not necessary to achieve 100% commerce. To achieve 100% commerce you should build 3 stadiums, 4 shopping malls, 4 banks and 1 subway.
+
+9. Don't build too high infrastructure levels with too few cities (see the guide for a decent amount)
+- This is because higher infrastructure is more costly to replace and can be destroyed. Cities cannot be destroyed, so it's worth building more of them rather than higher infrastructure at the same price. You also get more infrastructure in a new city, giving the same income benefits as higher levels in old cities would. Building higher infrastructure is riskier since it means you have more to lose in a war, but can also end up being fine if there is low risk of a war. Here is a guide for maximum infra levels per city:
+1-12 cities: max 2000 infra per city
+13-18 cities: max 2500 infra per city
+19-25 cities: max 3000 infra per city.
+
+10. Always build a new city or project if you can
+- they have a 10 day cooldown period after you build a new one, so you can't build a lot of them at once. ALSO, infrastructure can be destroyed in wars, but cities, projects and land can't be. Therefore they will always be a more worthwhile investment.
+
+11. Build land so that each city has a multiple of 500
+- this makes it cheaper to build.
+
+12. Change your national policy to manifest destiny when you're building a new city, urbanisation when you're building infrastructure and technological advancement when you're building a new project.
+- These will save you 5% off each. Since you can only change every 5 days, a useful tactic is to change to manifest destiny 5 days before you want to build a new city, build it after 5 days, then change to urbanisation immediately afterwards so you can get discounted infrastructure in the new city as well. However, don't get too hung up on this and postpone city building just so you can wait for urbanisation to become available. Each day you don't build the city, you've lost income the city could have made, which for infrastructure levels up to 1500 outweighs any cost savings from urbanisation.
+-------------------------------------
+
+This guide is a modified version of Thorin's guide, including the corresponding feedback in the announcement 'Guides to the Game' found here: https://politicsandwar.com/alliance/id=1023&display=announcements&tid=20773
+That thread still has some useful general guides and war guides for further reading.
+
+As always, if you have any questions or anything else to add please feel free to do so in the comments
